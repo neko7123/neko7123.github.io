@@ -359,3 +359,15 @@ body {
         width:100%;
     }
 }
+@media only screen and (max-width: 600px) {
+    /* Adjust text size */
+    body {
+        font-size: 14px; /* You can adjust this value as needed */
+    }
+
+    /* Adjust footer image size */
+    #footer img {
+        width: 100px; /* You can adjust this value as needed */
+        height: auto;
+    }
+}
