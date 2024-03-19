@@ -143,14 +143,14 @@ body {
     border-radius:0px 0px 100px 100px;
 }
 #contact {
-    width:20vw;
-    height:15vw;
+    width:15vw;
+    height:10vw;
     text-align:center;
     font-size:25px;
     background:transparent;
     color:#fff;
     position:fixed;
-    bottom:1;
+    bottom:0;
     left:45vw;
     display:flex;
     flex-direction: column;
